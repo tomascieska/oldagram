@@ -72,7 +72,7 @@ for (let i = 0; i <heart.length; i++ ){
     
     heart[i].addEventListener("click", function (){
        
-    likes[i].innerText++ 
+    likes[i].innerText = posts[i].likes++ + " likes"
     })
 
 }
