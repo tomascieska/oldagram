@@ -16,7 +16,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    border-bottom: 2px solid lightgrey;    
+    border-bottom: 5px solid lightgrey;
 }
 
 .logo {
